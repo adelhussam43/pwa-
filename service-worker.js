@@ -4,7 +4,7 @@ const FILES_TO_CACHE = [
     '/index.html',
     '/style.css',
     '/app.js',
-    '/images/Philadelphia-University-Jordan-logo.jpg'
+    '/Philadelphia-University-Jordan-logo.jpg'
 ];
 
 // Install event
